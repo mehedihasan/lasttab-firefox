@@ -1,2 +1,2 @@
-# lasttab-firefox
-Switch to last tab using shortcut Alt + Z
+#Last Tab
+Allows you to switch to the last tab, Press Alt + Z
